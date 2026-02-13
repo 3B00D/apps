@@ -3,7 +3,7 @@ layout: default
 title: NotiLoggy Privacy Policy
 ---
 
-# NotiLoggy Privacy Policy
+# NotiLoggy Android App Privacy Policy
 
 **Last updated:** 13-02-2026  
 **Effective date:** 13-02-2026
