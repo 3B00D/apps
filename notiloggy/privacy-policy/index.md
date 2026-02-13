@@ -1,6 +1,7 @@
 ---
 layout: default
 title: NotiLoggy Privacy Policy
+permalink: /notiloggy/privacy-policy/
 ---
 
 # NotiLoggy Android App Privacy Policy
