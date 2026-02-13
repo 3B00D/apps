@@ -1,5 +1,5 @@
 ---
-layout: null
+layout: default
 title: NotiLoggy Privacy Policy
 permalink: /notiloggy/privacy-policy/
 ---
