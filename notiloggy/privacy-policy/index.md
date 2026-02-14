@@ -62,8 +62,8 @@ We request permissions only when needed and explain why each is required.
 ## 4. Third-Party Services
 
 ### 4.1 Google AdMob (Advertising)
-The app displays advertisements provided by Google AdMob via Firebase. When ads are shown:
-- **AdMob** may collect device identifiers, IP address, and usage data to deliver and measure ads.
+The app displays banner advertisements provided by Google AdMob via Firebase. When ads are shown:
+- **AdMob** may collect device identifiers, IP address, app interactions, and usage data to deliver and measure ads.
 - **Consent:** In regions that require it (e.g., EEA, UK), we use Google's User Messaging Platform (UMP) to obtain your consent before showing personalized ads. You can choose to limit or refuse personalized advertising.
 - **Privacy:** AdMob's data practices are governed by [Google's Privacy Policy](https://policies.google.com/privacy) and [Google Ads Privacy](https://policies.google.com/technologies/ads).
 
